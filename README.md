@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Zac Guse-Humphrey
+
+### ©️2019 Run Buddy, Inc
